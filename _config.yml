@@ -1,0 +1,17 @@
+# Site settings
+title: Challenges in Computational Linguistics 
+subtitle: > # ignore newlines until "description:"
+    Course web page, WS 2019 - 2020
+    <a href="http://www.sfs.uni-tuebingen.de">SfS</a>,
+    <a href="http://uni-tuebingen.de/">University of Tübingen</a>
+description: > # ignore newlines until "baseurl:"
+    This is the course web page for Challenges in Computational Linguistics
+    taught in the linguistic department (SfS), University of Tübingen.
+baseurl: ""
+url: "https://cicl-iscl.github.io"
+github_username:  cicl-iscl
+
+encoding: utf-8
+
+# Build settings
+markdown: kramdown

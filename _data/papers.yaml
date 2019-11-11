@@ -1,0 +1,24 @@
+- authors: Bansal, Nagel and Soloveva (2019)
+  url: https://aclweb.org/anthology/papers/S/S19/S19-2111/
+  task: OffensEval 2019
+  taskurl: https://competitions.codalab.org/competitions/20011
+- authors: Pütz and Glocker (2019)
+  url: https://www.aclweb.org/anthology/S19-2016
+  task: Cross-lingual Semantic Parsing with UCCA
+  taskurl: https://competitions.codalab.org/competitions/19160
+- authors: Juhász, Linnenschmidt and Roys (2019)
+  url: https://www.aclweb.org/anthology/S19-2206
+  task: Fact Checking in Community Question Answering Forums
+  taskurl: https://competitions.codalab.org/competitions/20022
+- authors: Manolescu, Löfflad, Mohamed Saber and Moradipour Tari (2019)
+  url: https://www.aclweb.org/anthology/S19-2089
+  task: Shared Task on Multilingual Detection of Hate
+  taskurl: https://competitions.codalab.org/competitions/19935
+- authors: Luo, Baranova and Biegert (2019)
+  url: https://www.aclweb.org/anthology/S19-2227
+  task: Math Question Answering
+  taskurl: https://competitions.codalab.org/competitions/20013
+- authors: Wu, DeMattos, So, Chen and Çöltekin (2019)
+  url: https://www.aclweb.org/anthology/W19-1406
+  task: VarDial Evaluation Campaign
+  taskurl: https://sites.google.com/view/vardial2019/campaign
