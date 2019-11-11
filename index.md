@@ -29,6 +29,10 @@ writing a term paper within the scope of the course.
 
 Prior knowledge to NLP and machine learning is required. 
 
+## Assignments
+
+- Assignment 1: [Finite state morphology](https://iscl-cm2019.github.io/a1/)
+
 ## Contact
 
 - Instructor: [Çağrı Çöltekin](http://coltekin.net/cagri/)
