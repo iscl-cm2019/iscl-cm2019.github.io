@@ -8,8 +8,7 @@ _Computational Morphology_
 at the [Department of Linguistics](http://sfs.uni-tuebingen.de),
 [University of Tübingen](http://uni-tuebingen.de).
 
-
-This is a seminar intends to cover a wide range of different
+This is a seminar course covering a wide range of different
 approaches for computational processing of natural langauge
 morphology. We will cover, rule-based (finite-state) systems
 as well as data-driven models of both supervised and unsupervised
@@ -20,10 +19,11 @@ influential and/or recent papers from the literatuere, and discuss
 them in the class. The participants will also be required to complete
 small projects.
 
-Grading will be based on class participation and leading the
-discussion of a paper, or a "replication/reproducion" of one of the
-papers discussed (3ECTS). Further course credits can be obtained by 
-writing a term paper within the scope of the course.
+Grading will be based on class participation and homeworks (3ECTS).
+Further course credits can be obtained by 
+a term project (6ECTS)
+and a term project described in a term paper (9ECTS)
+within the scope of the course.
 
 ## Requirements
 
