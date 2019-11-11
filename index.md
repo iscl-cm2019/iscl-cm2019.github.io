@@ -4,7 +4,7 @@ layout: default
 
 This is the course page
 for the seminar course
-_Computational Morphology
+_Computational Morphology_
 at the [Department of Linguistics](http://sfs.uni-tuebingen.de),
 [University of Tübingen](http://uni-tuebingen.de).
 
