@@ -27,11 +27,12 @@ within the scope of the course.
 
 ## Requirements
 
-Prior knowledge to NLP and machine learning is required. 
+Prior knowledge of NLP and machine learning is required. 
 
 ## Assignments
 
 - Assignment 1: [Finite state morphology](https://iscl-cm2019.github.io/a1/)
+- Assignment 2: [Morpheme segmentation with BPE](https://iscl-cm2019.github.io/a2/)
 
 ## Contact
 
